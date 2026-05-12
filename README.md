@@ -3,9 +3,11 @@ html
   Hi 👋, I'm Amr Ahmed
 </h1>
 
-<h3 align="center">
-💻 C++ Developer | 📊 Future Data Analyst | 🚀 Problem Solver
-</h3>
+html id="xjlwm"
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FFAA&center=true&vCenter=true&random=false&width=1000&lines=SYSTEM+INITIALIZED...;WELCOME+AMR+AHMED;C%2B%2B+DEVELOPER;PROBLEM+SOLVER;DATA+ANALYST+IN+PROGRESS;LOADING+SUCCESS..." />
+</p>
+
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=C%2B%2B+Developer;Problem+Solver;JavaScript+Learner;HTML+%26+CSS;Excel+%26+Power+BI;Future+Software+Engineer" />
@@ -64,10 +66,10 @@ Goal: Become Professional Software Engineer
 
 ---
 
-# 🐍 Contribution Snake
+# 📊 Contribution Graph
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amr-Salam-Dev&theme=tokyo-night"/>
 </p>
 
 ---
