@@ -47,8 +47,11 @@ Goal: Become Professional Software Engineer
 # 📈 GitHub Stats
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amr-Salam-Dev&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amr-Salam-Dev&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Amr-Salam-Dev&show_icons=true&theme=radical&cache_seconds=1800" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amr-Salam-Dev&layout=compact&theme=radical&cache_seconds=1800" />
 </p>
 
 ---
