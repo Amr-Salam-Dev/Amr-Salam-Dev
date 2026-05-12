@@ -24,7 +24,7 @@ html
 ```cpp
 Name: Amr Ahmed
 Country: Egypt
-Learning: C++, JavaScript, HTML, CSS
+Learning: C++, JavaScript, HTML, CSS, EXCEL, POWER BI ,TypeScript
 Interested In: Data Analysis & Power BI
 Goal: Become Professional Software Engineer
 ````
@@ -34,7 +34,7 @@ Goal: Become Professional Software Engineer
 # 🚀 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,js,html,css,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=cpp,js,html,css,git,github,vscode,visualstudio" />
 </p>
 
 <p align="center">
@@ -47,11 +47,11 @@ Goal: Become Professional Software Engineer
 # 📈 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Amr-Salam-Dev&show_icons=true&theme=radical&cache_seconds=1800" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Amr-Salam-Dev&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amr-Salam-Dev&layout=compact&theme=radical&cache_seconds=1800" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Amr-Salam-Dev&layout=compact&theme=tokyonight" />
 </p>
 
 ---
