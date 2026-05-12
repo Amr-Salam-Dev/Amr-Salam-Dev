@@ -1,4 +1,4 @@
-```md id="2d69rh"
+
 <h1 align="center">Hi 👋, I'm Amr Ahmed</h1>
 
 <h3 align="center">
@@ -104,4 +104,3 @@
 <p align="center">
 🚀 Never Stop Learning
 </p>
-```
