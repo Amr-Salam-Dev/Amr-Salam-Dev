@@ -1,10 +1,10 @@
 html
 <h1 align="center">
-  Hi 👋, I'm Amr Ahmed
+  Hi 👋, I'm Amr Ahmed 
 </h1>
 
 <h3 align="center">
-💻 C++ Developer | 📊 Hello World! | 🚀 Problem Solveing
+💻 C++ Developer | 📊 Hello World! | 🚀 Front End
 </h3>
 
 <p align="center">
@@ -25,8 +25,8 @@ html
 Name: Amr Ahmed
 Country: Egypt
 Learning: C++, JavaScript, HTML, CSS, EXCEL, POWER BI ,TypeScript
-Interested In: Data Analysis & Power BI
-Goal: Become Professional Software Engineer
+Interested In: Data Analysis &  front End
+
 ````
 
 ---
