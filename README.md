@@ -8,7 +8,7 @@ html
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FFAA&center=true&vCenter=true&random=false&width=1000&lines=SYSTEM+INITIALIZED...;WELCOME+AMR+AHMED;C%2B%2B+DEVELOPER;PROBLEM+SOLVER;DATA+ANALYST+IN+PROGRESS;LOADING+SUCCESS..." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FFAA&center=true&vCenter=true&random=false&width=1000&lines=SYSTEM+INITIALIZED...;WELCOME+In+Profile;C%2B%2B+DEVELOPER;PROBLEM+SOLVER;Front+End...+;LOADING+SUCCESS..." />
 </p>
 
 ---
